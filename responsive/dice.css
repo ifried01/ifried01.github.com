@@ -1,5 +1,8 @@
 
-h1.hidden {
+/*h1.hidden {
+    display:none;
+}*/
+#dice {
     display:none;
 }
 
