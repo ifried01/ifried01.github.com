@@ -1,0 +1,12 @@
+ul.list-tick {
+  margin: 0;
+  padding: 0;
+}
+ul.list-tick li {
+  margin: 0;
+  padding: 2px 0 2px 16px;
+  list-style: none;
+  background: url('bullet-leaf.jpg') no-repeat top left;
+  background-size: 1%;
+}
+
