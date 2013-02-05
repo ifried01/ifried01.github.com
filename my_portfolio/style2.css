@@ -3,7 +3,7 @@
 body {
   background-image:url('grey-texture.jpg');
   background-size: 100%;
-  
+
   padding-left: 11em;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   color: black;
@@ -29,10 +29,10 @@ h2 {
 }
 
 .ed3 {
-  text-indent: 30px;
+  text-indent: 40px;
   color: #000000
 }
-li.ed4 {
+.ed2, .ed4 {
   text-indent: 20px;
   color: #000000
 }
