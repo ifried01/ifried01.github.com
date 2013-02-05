@@ -2,7 +2,7 @@
 
 body {
   background-image:url('grey-texture.jpg');
-  background-repeat: repeat-y;
+  background-repeat: repeat;
 
   padding-left: 11em;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
