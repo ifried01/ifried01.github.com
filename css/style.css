@@ -1,0 +1,46 @@
+/* CSS */
+
+body {
+  background-image:url('../assets/grey-texture.jpg');
+  background-size: 100%;
+  background-position:center;
+
+  padding-left: 11em;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  background-color: #0088EE
+}
+
+h1 {
+  color: #bcbcbc;
+  font-size: 50px;
+}
+
+h2, h3, h4 {
+  color: #bcbcbc;
+  font-size: 20px;
+}
+
+p {
+  margin-left:20px;
+  color:#efefef
+}
+
+ul.navbar a {
+  text-decoration: none }
+a:link {
+  color: #FFCC66 }
+a:visited {
+  color: #FFCC66 }
+
+ul.list-tick {
+  margin: 0;
+  padding: 0;
+}
+ul.list-tick li {
+  margin-left:20px;
+  padding: 2px 2px 2px 16px;
+  list-style: none;
+  background: url('../assets/bullet-leaf.jpg') no-repeat top left;
+  background-size: 1%;
+}
+
