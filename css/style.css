@@ -1,14 +1,22 @@
 /* CSS */
 
 body {
-  background-image:url('../assets/red_cloud.jpg');
+  background-image:url('../assets/tree.jpg');
   background-size: 100%;
   background-position:center;
+  background-repeat:no-repeat;
 
   padding-left: 11em;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   background-color: #0088EE
 }
+/*
+canvas {
+    background-image:url('../assets/mountains.jpg');
+    background-position:center;
+    background-repeat:no-repeat;
+    
+}*/
 
 h1 {
   color: #efefef;
