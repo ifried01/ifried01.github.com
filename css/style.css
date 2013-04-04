@@ -1,47 +1,46 @@
 /* CSS */
 
 body {
-  background-image:url('../assets/tree.jpg');
-  background-size: 100%;
-  background-position:center;
-  background-repeat:no-repeat;
+    background-image:url('../assets/tree.jpg');
+    background-size: 100%;
+    background-position:center;
+    background-repeat:no-repeat;
 
-  padding-left: 11em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  background-color: #0088EE
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+    background-color: #000000
 }
 
 h1 {
-  color: #efefef;
-  font-size: 50px;
+    text-align:center;
+    color: #efefef;
+    font-size: 70px;
 }
 
-h2, h3, h4 {
-  color: #bcbcbc;
-  font-size: 20px;
+a {
+    color: #000000;
 }
 
-p {
-  margin-left:20px;
-  color:#efefef
+div.text-background2 {
+    position:relative;
+    margin-top:auto;
+    margin-bottom:auto;
+    width:200px;
+    height:510px;
+    background:url(../assets/peppers7.jpg) repeat;
+    border:2px solid black;
+}
+div.transbox2 {
+    position:relative;
+    width:300px;
+    height:300px;
+    margin:100px 20px;
+    background-color:none;
+    font-size:25px;
+    font-weight:bold;
 }
 
-ul.navbar a {
-  text-decoration: none }
-a:link {
-  color: #FFCC66 }
-a:visited {
-  color: #FFCC66 }
-
-ul.list-tick {
-  margin: 0;
-  padding: 0;
+div.me {
+    position:relative;
+    left:400px;
+    top:-400px;
 }
-ul.list-tick li {
-  margin-left:20px;
-  padding: 2px 2px 2px 16px;
-  list-style: none;
-  background: url('../assets/bullet-leaf.jpg') no-repeat top left;
-  background-size: 1%;
-}
-
