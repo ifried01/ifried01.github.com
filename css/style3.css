@@ -1,7 +1,7 @@
 /* CSS */
 
 body {
-    background-image:url('../assets/tree.jpg');
+    background-image:url('../assets/rock_pile.jpg');
     background-size: 100%;
     background-position:center;
     background-repeat:no-repeat;
@@ -54,7 +54,7 @@ div.transbox p {
     top: -30px;
     margin:30px 40px;
     font-weight:bold;
-    color:#000000;
+    color: #efefef;
     font-size:17px;
 }
 
@@ -73,4 +73,6 @@ ul.list-tick li {
     background-size: 3%;
 }
 
+/*e6af61
+434343*/
 

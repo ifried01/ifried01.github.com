@@ -1,7 +1,7 @@
 /* CSS */
 
 body {
-    background-image:url('../assets/tree.jpg');
+    background-image:url('../assets/rock_pile.jpg');
     background-size: 100%;
     background-position:center;
     background-repeat:no-repeat;
@@ -16,6 +16,95 @@ h1 {
     font-size: 70px;
 }
 
+h2, h3 {
+    position:relative;
+    margin-left:220px;
+    font-size:20px;
+}
+h4 {
+    position:relative;
+    font-size:20px;
+    margin-left:620px;
+    margin-top:-450px;
+}
+
+h5 {
+    position:relative;
+    font-size:20px;
+    margin-left:620px;
+    margin-top:20px;
+}
+
+#resume {
+    background:url(../assets/humming_bird_bw.jpg);
+    border-radius:10px;
+    height:172px;
+    width:198px;
+    display:block;
+    position:relative;
+    margin-left:200px;
+}
+
+#resume:hover {
+    background:url(../assets/humming_bird.jpg);
+}
+
+#personal{
+    background:url(../assets/red_peppers_bw.jpg);
+    border-radius:10px;
+    height:172px;
+    width:198px;
+    display:block;
+    position:relative;
+    margin-left:200px;
+}
+#personal:hover {
+    background:url(../assets/red_peppers.jpg);
+}
+
+#linkedin{
+    background:url(../assets/2_of_us_bw.jpg);
+    border-radius:10px;
+    position:relative;
+    height:172px;
+    width:198px;
+    margin-left:600px;
+    margin-top:-11px;
+    display:block;
+}
+#linkedin:hover {
+    background:url(../assets/2_of_us.jpg);
+}
+
+#github{
+    background:url(../assets/tree_icon_bw.jpg);
+    border-radius:10px;
+    position:relative;
+    height:172px;
+    width:198px;
+    margin-left:600px;
+    margin-top:-13px;
+    display:block;
+}
+#github:hover {
+    background:url(../assets/tree_icon.jpg);
+}
+
+/*
+#links .resume_img {
+    background:url(../assets/humming_bird_bw.jpg);
+    position:relative;
+    top:100px;
+    left:200px;
+    width:172px;
+    height:198px;
+}    
+
+#links .resume_img:hover {
+    background:url(../assets/humming_bird.jpg);
+}*/
+
+/*
 a {
     color: #000000;
 }
@@ -43,4 +132,4 @@ div.me {
     position:relative;
     left:400px;
     top:-400px;
-}
+}*/
