@@ -25,6 +25,7 @@ p {
 h2, h3, h4 {
     position:relative;
     margin-left:20px;
+    font-size:20px;
 }
 
 a {
@@ -50,7 +51,7 @@ ul.list-tick li {
     margin-top:400px;
     position:relative;
     margin-left:22px;
-    color: #000000;
+    color: #efefef;
 }
 /*e6af61
 434343*/
