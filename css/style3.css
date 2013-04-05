@@ -14,20 +14,28 @@ h1 {
     text-align:20px;
     color: #efefef;
     font-size: 70px;
+    margin-left:20px;
+}
+
+p {
+    color: #efefef;
+    margin-left:40px;
 }
 
 h2, h3, h4 {
     position:relative;
+    margin-left:20px;
 }
 
 a {
     position:relative;
     margin-left: 40px;
-    font-weight:bold;
-    color:#000000;
+    color: #efefef;
+    margin-left:20px;
 }
 
 ul.list-tick {
+    margin-left:40px;
     position:relative;
 }
 ul.list-tick li {
@@ -41,7 +49,8 @@ ul.list-tick li {
 #email {
     margin-top:400px;
     position:relative;
-    margin-left:-1px;
+    margin-left:22px;
+    color: #000000;
 }
 /*e6af61
 434343*/
