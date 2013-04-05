@@ -19,7 +19,7 @@ h1 {
 h2, h3 {
     color:#FFA500;
     position:relative;
-    margin-left:80px;
+    margin-left:100px;
     font-size:20px;
 }
 h4 {
@@ -45,7 +45,7 @@ h5 {
     width:198px;
     display:block;
     position:relative;
-    margin-left:80px;
+    margin-left:100px;
 }
 
 #resume:hover {
@@ -59,7 +59,7 @@ h5 {
     width:198px;
     display:block;
     position:relative;
-    margin-left:80px;
+    margin-left:100px;
 }
 #personal:hover {
     background:url(../assets/red_peppers.jpg);
