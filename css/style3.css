@@ -18,61 +18,31 @@ h1 {
 
 h2, h3, h4 {
     position:relative;
-    top: -30px;
-    font-size: 25px;
-    color: #1874cd;
 }
 
 a {
     position:relative;
-    padding: 40px;
+    margin-left: 40px;
     font-weight:bold;
     color:#000000;
 }
 
-div.text-background {
-    position:relative;
-    left:200px;
-    width:800px;
-    height:800px;
-    background:url(../assets/peppers5.jpg) repeat;
-    border:2px solid black;
-}
-
-div.transbox {
-    width:600px;
-    height:180px;
-    margin:30px 50px;
-    background-color:none;
-    /*border:1px solid black;*/
-/*  opacity:0.7;
-  filter:alpha(opacity=60); *//* For IE8 and earlier */
-}
-
-div.transbox p {
-    position:relative;
-    top: -30px;
-    margin:30px 40px;
-    font-weight:bold;
-    color: #efefef;
-    font-size:17px;
-}
-
 ul.list-tick {
-    margin: 0;
-    padding: 0;
     position:relative;
 }
 ul.list-tick li {
     position:relative;
-    top:-40px;
-    left: 40px;
-    padding: -20px 2px 2px 10px;
+    margin-left:-40px;
     list-style: none;
     background: url('../assets/bullet-leaf.jpg') no-repeat top left;
-    background-size: 3%;
+    background-size: 1%;
 }
 
+#email {
+    margin-top:400px;
+    position:relative;
+    margin-left:-1px;
+}
 /*e6af61
 434343*/
 
